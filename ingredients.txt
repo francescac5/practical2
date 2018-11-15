@@ -1,1 +1,6 @@
-
+Vegetables
+Meat
+Dairy
+Bread
+Fish
+Fruit
