@@ -4,3 +4,4 @@ Dairy
 Bread
 Fish
 Fruit
+Spirits
